@@ -1,10 +1,8 @@
-﻿[![sites](qitas/Qi.png)](http://www.qitas.cn)
-
-# display
+﻿# display
 
 ### 项目描述
 
-主要包括各个显示驱动芯片的驱动代码，用于驱动LCD外设显示
+主要包括各个显示驱动芯片的MCU驱动代码，用于驱动LCD外设
 
 ---
 
