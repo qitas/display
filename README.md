@@ -1,22 +1,25 @@
-﻿# display
+﻿# [panels](https://github.com/Qitas/panels) 
 
-### 项目描述
+#### qitas@qitas.cn
 
-主要包括各个显示驱动芯片的MCU驱动代码，用于驱动LCD外设
+## [简介](https://github.com/Qitas/panels/wiki)
+
+包括各个显示驱动芯片的MCU驱动代码，用于驱动LCD外设
+
+## [组成](qitas/)
+
+#### [项目文档](docs/)
+
+包括软硬件资源
+
+#### [项目资源](project/)
+
+包括源码工程
+
 
 ---
 
-## 组成
+## 锻造最美之器
 
-- ST7735
-
-- ILI9341
-
----
-## 说明
-
-2018-10-15: 规范该仓库
-
----
-## 为锻造最美之器
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+
