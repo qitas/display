@@ -1,5 +1,8 @@
-#include <font\font.h>
-#include <sys\sys.h>
+#ifndef __FONT_H
+#define __FONT_H		
+
+#include "font.h"
+#include "sys.h"
 u8 code image[]={ /* 0X00,0X10,0X28,0X00,0X28,0X00,0X01,0X1B,*/
 0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,
 0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XBE,0XF7,0X7D,0XEF,
@@ -332,7 +335,8 @@ u8 code asc2_1608[1520]={
 }; 
 
 
-
+#endif  
+	 
 
 
 

@@ -1,8 +1,8 @@
 #include <reg51.h>
 #include <intrins.h>
-#include <font\font.h>
-#include <sys\sys.h>
-#include <lcd\lcd.h>
+#include "font.h"
+#include "lcd.h"
+#include "sys.h"
 /******************************************************
 接线方式
 特别说明：由于生产时间丝印印刷偏移了一个管脚；大家在使用的特别注意一下

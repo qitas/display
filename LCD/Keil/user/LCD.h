@@ -1,6 +1,7 @@
 #ifndef __LCD_H
 #define __LCD_H		
-#include "sys\sys.h"
+
+#include "sys.h"
 /******************************************************
 中景园电子淘宝店铺连接：https://shop73023976.taobao.com/
 接线方式
