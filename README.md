@@ -1,8 +1,9 @@
 ﻿# [display](https://github.com/Qitas/display)
 
 ### qitas@qitas.cn
+#### 父级：[外设驱动](https://github.com/Qitas/drivers)
 
-包括各个显示驱动芯片的MCU驱动代码，用于驱动LCD外设
+本工程用于驱动显示外设单元，主要包括小尺寸的LCD显示器，LED阵列或RGB灯条
 
 ## [项目组成](qitas/)
 
