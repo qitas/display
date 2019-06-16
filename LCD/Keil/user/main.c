@@ -28,8 +28,8 @@ void xianshi()//显示信息
 	u16 lx,ly;
 	BACK_COLOR=WHITE;
 	POINT_COLOR=RED;	
-	showhanzi(10,0,0);  //中
-	showhanzi(45,0,1);  //景
+	showhanzi(10,0,0);  	//中
+	showhanzi(45,0,1);  	//景
 		showhanzi(80,0,2);  //园
     LCD_ShowString(10,35,"3.2 TFT SPI 240*320");
 	LCD_ShowString(10,55,"LCD_W:");	LCD_ShowNum(70,55,LCD_W,3);
